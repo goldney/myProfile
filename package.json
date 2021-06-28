@@ -1,0 +1,30 @@
+{
+  "name": "myprofile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goldney/myProfile.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/goldney/myProfile/issues"
+  },
+  "homepage": "https://github.com/goldney/myProfile#readme",
+  "devDependencies": {
+    "browser-sync": "^2.27.1",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-cleancss": "^0.2.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-sass": "^5.0.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.35.1"
+  }
+}

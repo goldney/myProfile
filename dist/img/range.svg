@@ -1,0 +1,8 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 25 28" width="25" height="28">
+	<title>Rounded Rectangle 4</title>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #ffffff;stroke: #b0b0b0 } 
+	</style>
+	<path id="Rounded Rectangle 4" class="shp0" d="M23.79 15.84C23.79 21.92 18.87 26.84 12.8 26.84C6.72 26.84 1.8 21.92 1.8 15.84C1.8 11.63 4.17 7.98 7.65 6.13L11.37 2.42C12.15 1.64 13.41 1.64 14.19 2.42L17.88 6.1C21.39 7.94 23.79 11.61 23.79 15.84Z" />
+</svg>
